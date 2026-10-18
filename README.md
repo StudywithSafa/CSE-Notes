@@ -1,13 +1,17 @@
 # CSE-Notes by StudywithSafa 📚
 
-Simple and clear notes for CSE students - from Coimbatore!
+Simple explanation of CSE subjects - No boring textbook language!
 
-### 📂 What you'll find here:
-- DSA - Data Structures
-- DBMS - Database Management
-- OS - Operating Systems
-- CN - Computer Networks
+## Subjects Available:
+- ✅ DSA - Arrays, Linked List, etc.
+- ✅ DBMS - Intro, SQL, etc.
+- 🚧 Coming Soon: OS, CN, OOPS
 
-Made with ❤️ for juniors.
+## Who is this for?
+Tamil + English mix la easy-a puriya vechuruken. Beginners ku perfect!
+
+Made with ❤️ by Safa
+
+⭐ Star this repo if it helped you!
 
 ### Instagram: @studywith_safa
