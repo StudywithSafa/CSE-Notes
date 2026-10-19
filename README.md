@@ -5,6 +5,7 @@ Simple explanation of CSE subjects - No boring textbook language!
 ## Subjects Available:
 - ✅ DSA - Arrays, Linked List, etc.
 - ✅ DBMS - Intro, SQL, etc.
+- ✅"TNPSC Syllabus, Previous Year Papers"
 - 🚧 Coming Soon: OS, CN, OOPS
 
 ## Who is this for?
