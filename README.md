@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/stars/StudywithSafa/CSE-Notes?style=social" />
 <img src="https://img.shields.io/github/forks/StudywithSafa/CSE-Notes?style=social" />
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Chennai-blue" />
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Mayiladuthurai-blue" />
 <img src="https://img.shields.io/badge/Language-Tamil%20%2B%20English-green" />
 </p>
 
